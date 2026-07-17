@@ -1,0 +1,8 @@
+pymupdf>=1.24,<2
+numpy>=1.26,<3
+torch>=2.2,<3
+sentence-transformers>=3,<6
+transformers>=4.45,<6
+rank_bm25>=0.2.2,<1
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
